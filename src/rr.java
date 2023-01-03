@@ -19,8 +19,7 @@ import javax.swing.JTextField;
 import javax.swing.JProgressBar;
 import java.awt.Color;
 
-public class rr extends mainPage{
-	
+public class rr extends mainPage{	
 	private JFrame frame;
 	JTable table;
 	DefaultTableModel tModel;
