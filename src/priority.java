@@ -18,7 +18,6 @@ import javax.swing.JProgressBar;
 import java.awt.Color;
 
 public class priority extends mainPage{
-
 	private JFrame frame;
 	private JTable table;
 	private DefaultTableModel tModel;
