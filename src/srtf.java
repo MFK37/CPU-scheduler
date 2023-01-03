@@ -19,7 +19,6 @@ import javax.swing.JProgressBar;
 
 
 public class srtf extends mainPage{
-
 	private JFrame frame;
 	JTable table;
 	DefaultTableModel tModel;
